@@ -2,6 +2,8 @@
 
 note about _Principles of Economics _ Nicholas Gregory "Greg" Manki
 
+## 十大原理
+
 ## 生产可能性边界
 在资源一定的情况下, 两种产品相互转化的示意图.
 边界上的斜率代表了一种产品向另外一种产品转化的效率. 由于边际递减原理, 转换的效率在逐渐降低, 曲线就变成外凸的形状.
