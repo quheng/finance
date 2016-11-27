@@ -4,6 +4,7 @@ note about _Principles of Economics _ Nicholas Gregory "Greg" Manki
 
 ## 十大原理
 1. 人们面临取舍
+2. 机会成本是为了得到它所放弃的东西
 
 ## 生产可能性边界
 在资源一定的情况下, 两种产品相互转化的示意图.
