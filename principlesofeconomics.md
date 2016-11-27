@@ -2,6 +2,8 @@
 
 note about _Principles of Economics _ Nicholas Gregory "Greg" Manki
 
+## 生产可能性边界
+
 ## 比较优势
 将生产一种产品的成本换算成用生产另外一种产品的成本.
 
