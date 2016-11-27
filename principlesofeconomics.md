@@ -1,3 +1,3 @@
 ## Principles of Economics
 
-note 
+note about _Principles of Economics _ Nicholas Gregory "Greg" Manki
