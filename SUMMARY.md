@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* PrinciplesOfEconomics
+* [PrinciplesOfEconomics](principlesofeconomics.md)
 
