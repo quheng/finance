@@ -28,3 +28,5 @@ note about _Principles of Economics _ Nicholas Gregory "Greg" Manki
 
 ## 弹性
 $$ 弹性 = \frac{需求变动百分比}{价格变动百分比} $$
+
+中点法, 用变动的中点作为分母, 避免相同的变动量但由于变动的方向的不同造成的差异.
