@@ -27,3 +27,4 @@ note about _Principles of Economics _ Nicholas Gregory "Greg" Manki
 贸易可以使得让不同人专注于自己的比较优势的产品, 使得每一个人都能取得收益.
 
 ## 弹性
+$$ 弹性 = \frac{a, b} $$
