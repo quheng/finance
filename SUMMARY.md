@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [PrinciplesOfEconomics](principlesofeconomics.md)
+* [Principles of Economics](principlesofeconomics.md)
+* [Finance Foundations](finance-foundations.md)
 
